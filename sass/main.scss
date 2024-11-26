@@ -1,0 +1,8 @@
+@import url("/_reset.scss");
+@import url("./_global.scss");
+
+body {
+  background-color: red;
+}
+
+//sass --no-source-map sass:styles --style compressed
